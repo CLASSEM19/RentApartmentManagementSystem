@@ -1,0 +1,617 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\004c6fa0-39ac-4c57-8d55-83f99037389a.png",
+      "PackagePath": "staticwebassets\\Images\\004c6fa0-39ac-4c57-8d55-83f99037389a.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\01c9a1d3-ac86-4d5c-b398-697c952b2134.png",
+      "PackagePath": "staticwebassets\\Images\\01c9a1d3-ac86-4d5c-b398-697c952b2134.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\02809757-6357-47f8-aa73-8bdfee25b030.png",
+      "PackagePath": "staticwebassets\\Images\\02809757-6357-47f8-aa73-8bdfee25b030.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\0331404e-2e52-4882-898b-d8389ca91cb5.png",
+      "PackagePath": "staticwebassets\\Images\\0331404e-2e52-4882-898b-d8389ca91cb5.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\0390dd09-da7d-4e43-b2f8-1712ccff8270.png",
+      "PackagePath": "staticwebassets\\Images\\0390dd09-da7d-4e43-b2f8-1712ccff8270.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\0afe16f5-7c1d-4197-b9fe-863b021f914b.vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "PackagePath": "staticwebassets\\Images\\0afe16f5-7c1d-4197-b9fe-863b021f914b.vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\0f26bffd-2c08-49a6-8df4-392e83108c30.png",
+      "PackagePath": "staticwebassets\\Images\\0f26bffd-2c08-49a6-8df4-392e83108c30.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\0fec51f8-6103-47be-8137-92226d3ebf64.png",
+      "PackagePath": "staticwebassets\\Images\\0fec51f8-6103-47be-8137-92226d3ebf64.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\172808e9-8989-48e7-b7a1-4c5512512cda.png",
+      "PackagePath": "staticwebassets\\Images\\172808e9-8989-48e7-b7a1-4c5512512cda.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\1809d99b-eb90-4687-8a9e-2a876c92bd29.png",
+      "PackagePath": "staticwebassets\\Images\\1809d99b-eb90-4687-8a9e-2a876c92bd29.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\196510a7-2258-4ea0-a2bd-6899c454441e.jpg",
+      "PackagePath": "staticwebassets\\Images\\196510a7-2258-4ea0-a2bd-6899c454441e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\1aeab85d-89df-418e-afa6-05953ebc3c59.png",
+      "PackagePath": "staticwebassets\\Images\\1aeab85d-89df-418e-afa6-05953ebc3c59.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\1cbb8a98-e894-4c2f-a57f-4e431ab07854.png",
+      "PackagePath": "staticwebassets\\Images\\1cbb8a98-e894-4c2f-a57f-4e431ab07854.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\1d65cde2-7b1a-4176-8a2f-7ba427272805.png",
+      "PackagePath": "staticwebassets\\Images\\1d65cde2-7b1a-4176-8a2f-7ba427272805.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\1e7e75a2-9497-47f0-8463-986539e3f1bc.png",
+      "PackagePath": "staticwebassets\\Images\\1e7e75a2-9497-47f0-8463-986539e3f1bc.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\2020b5e4-af1d-4d6e-8dfe-410caebe299d.png",
+      "PackagePath": "staticwebassets\\Images\\2020b5e4-af1d-4d6e-8dfe-410caebe299d.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\2251afa8-3384-4ab5-acef-f5614ede1876.png",
+      "PackagePath": "staticwebassets\\Images\\2251afa8-3384-4ab5-acef-f5614ede1876.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\22d8c084-2cb6-472a-92e2-9ebd55e9afc0.png",
+      "PackagePath": "staticwebassets\\Images\\22d8c084-2cb6-472a-92e2-9ebd55e9afc0.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\2327ed7a-012c-4bac-bea2-bcbf7b76179b.png",
+      "PackagePath": "staticwebassets\\Images\\2327ed7a-012c-4bac-bea2-bcbf7b76179b.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\2bd76e7b-e847-42c5-8258-ad53b2f695db.png",
+      "PackagePath": "staticwebassets\\Images\\2bd76e7b-e847-42c5-8258-ad53b2f695db.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\2bdc38a5-ad41-4a44-8d94-c5813b6ee0da.jpg",
+      "PackagePath": "staticwebassets\\Images\\2bdc38a5-ad41-4a44-8d94-c5813b6ee0da.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\2e830701-58c1-4577-9cf0-6aa108c74d89.png",
+      "PackagePath": "staticwebassets\\Images\\2e830701-58c1-4577-9cf0-6aa108c74d89.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\3113155f-1300-44a8-ab40-74b37277380a.jpg",
+      "PackagePath": "staticwebassets\\Images\\3113155f-1300-44a8-ab40-74b37277380a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\318cea66-0128-4138-a9ef-9aef9b0a971d.png",
+      "PackagePath": "staticwebassets\\Images\\318cea66-0128-4138-a9ef-9aef9b0a971d.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\319d24f6-b70d-4079-b8a6-196cd53bf218.png",
+      "PackagePath": "staticwebassets\\Images\\319d24f6-b70d-4079-b8a6-196cd53bf218.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\32c52a2d-5318-4d68-be91-881deaacf369.png",
+      "PackagePath": "staticwebassets\\Images\\32c52a2d-5318-4d68-be91-881deaacf369.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\35e5faec-4b50-4ac3-b9fb-e1d7167e815f.png",
+      "PackagePath": "staticwebassets\\Images\\35e5faec-4b50-4ac3-b9fb-e1d7167e815f.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\382a2703-2900-451a-90c8-51bb88335ef9.png",
+      "PackagePath": "staticwebassets\\Images\\382a2703-2900-451a-90c8-51bb88335ef9.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\38f30566-e58e-4c3a-9e34-94b88fb6fc4f.png",
+      "PackagePath": "staticwebassets\\Images\\38f30566-e58e-4c3a-9e34-94b88fb6fc4f.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\3eacfd5c-cd2a-4d6e-8267-8c6b5f85a7ee.png",
+      "PackagePath": "staticwebassets\\Images\\3eacfd5c-cd2a-4d6e-8267-8c6b5f85a7ee.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\3f2d97bb-219e-495d-871f-a7efb8f67ea0.png",
+      "PackagePath": "staticwebassets\\Images\\3f2d97bb-219e-495d-871f-a7efb8f67ea0.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\434358a2-b167-4de9-927d-98eb6d611fe2.png",
+      "PackagePath": "staticwebassets\\Images\\434358a2-b167-4de9-927d-98eb6d611fe2.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\43d05651-ef34-44bf-a193-04ed46620cfb.png",
+      "PackagePath": "staticwebassets\\Images\\43d05651-ef34-44bf-a193-04ed46620cfb.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\470b2674-d0e4-4ac5-a52c-722d5d271556.png",
+      "PackagePath": "staticwebassets\\Images\\470b2674-d0e4-4ac5-a52c-722d5d271556.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\47783ae2-210a-451f-baee-df0d495a3d07.png",
+      "PackagePath": "staticwebassets\\Images\\47783ae2-210a-451f-baee-df0d495a3d07.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\4c61a26a-4f72-40c3-91b5-9ba5309bb1c2.png",
+      "PackagePath": "staticwebassets\\Images\\4c61a26a-4f72-40c3-91b5-9ba5309bb1c2.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\4da1cf14-8389-47b7-88da-089a46f8d86a.jpg",
+      "PackagePath": "staticwebassets\\Images\\4da1cf14-8389-47b7-88da-089a46f8d86a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\4eb978ec-69c2-453c-a76e-e827d084fc77.png",
+      "PackagePath": "staticwebassets\\Images\\4eb978ec-69c2-453c-a76e-e827d084fc77.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\4ef7b043-3107-4a9d-baa1-442323b0f285.png",
+      "PackagePath": "staticwebassets\\Images\\4ef7b043-3107-4a9d-baa1-442323b0f285.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\4fbec90c-d8ee-42fd-84fd-52251711aeaa.png",
+      "PackagePath": "staticwebassets\\Images\\4fbec90c-d8ee-42fd-84fd-52251711aeaa.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\4fcca5dc-4906-4700-8a2e-a7c6a8a815f7.png",
+      "PackagePath": "staticwebassets\\Images\\4fcca5dc-4906-4700-8a2e-a7c6a8a815f7.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\51680583-8de1-4cdc-9843-f8a5a9d0d38d.jpg",
+      "PackagePath": "staticwebassets\\Images\\51680583-8de1-4cdc-9843-f8a5a9d0d38d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\5234f65b-b774-4f1b-86f0-779da651096f.png",
+      "PackagePath": "staticwebassets\\Images\\5234f65b-b774-4f1b-86f0-779da651096f.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\53d2a5cd-0f72-44f8-acc2-0d87411446af.png",
+      "PackagePath": "staticwebassets\\Images\\53d2a5cd-0f72-44f8-acc2-0d87411446af.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\5583bb58-0cd4-4c9c-aad2-2a6c65fae988.png",
+      "PackagePath": "staticwebassets\\Images\\5583bb58-0cd4-4c9c-aad2-2a6c65fae988.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\55c17032-f418-4448-8da5-59d46cc7b33e.png",
+      "PackagePath": "staticwebassets\\Images\\55c17032-f418-4448-8da5-59d46cc7b33e.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\56a594e5-a667-4e73-840b-62dd096946e4.png",
+      "PackagePath": "staticwebassets\\Images\\56a594e5-a667-4e73-840b-62dd096946e4.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\5c5f9e26-2d98-4aa7-b9ea-49134b80b4c2.png",
+      "PackagePath": "staticwebassets\\Images\\5c5f9e26-2d98-4aa7-b9ea-49134b80b4c2.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\5d04b421-02ea-4bc3-92a3-3da7a43d1751.png",
+      "PackagePath": "staticwebassets\\Images\\5d04b421-02ea-4bc3-92a3-3da7a43d1751.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\5dcc9e9c-e614-438b-b42a-3284a34f0510.png",
+      "PackagePath": "staticwebassets\\Images\\5dcc9e9c-e614-438b-b42a-3284a34f0510.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\5e06d69e-aecf-4c9b-85a7-604ec840f784.png",
+      "PackagePath": "staticwebassets\\Images\\5e06d69e-aecf-4c9b-85a7-604ec840f784.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\5f47af8e-b660-4d8f-a2a8-66b552dcc3dd.png",
+      "PackagePath": "staticwebassets\\Images\\5f47af8e-b660-4d8f-a2a8-66b552dcc3dd.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\5f8b5e83-be5d-4a11-8f8a-bf570c2bbdc4.jpg",
+      "PackagePath": "staticwebassets\\Images\\5f8b5e83-be5d-4a11-8f8a-bf570c2bbdc4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\6175c41d-b4eb-45bc-8ea6-6977f7366616.png",
+      "PackagePath": "staticwebassets\\Images\\6175c41d-b4eb-45bc-8ea6-6977f7366616.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\636efaf2-7f29-421e-b29f-3af3b1c9840e.png",
+      "PackagePath": "staticwebassets\\Images\\636efaf2-7f29-421e-b29f-3af3b1c9840e.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\65f67178-b74e-46ef-b6d9-7d075fb27cff.png",
+      "PackagePath": "staticwebassets\\Images\\65f67178-b74e-46ef-b6d9-7d075fb27cff.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\668d375a-aec9-4f40-acdc-9747bf1a40f2.png",
+      "PackagePath": "staticwebassets\\Images\\668d375a-aec9-4f40-acdc-9747bf1a40f2.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\68a92237-4a57-4a52-8898-5d344dc9b3ed.png",
+      "PackagePath": "staticwebassets\\Images\\68a92237-4a57-4a52-8898-5d344dc9b3ed.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\69859d5a-d43a-45e1-bb52-49aa103d69c8.png",
+      "PackagePath": "staticwebassets\\Images\\69859d5a-d43a-45e1-bb52-49aa103d69c8.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\6cc465dc-169b-4ddd-94c4-38cd70772758.png",
+      "PackagePath": "staticwebassets\\Images\\6cc465dc-169b-4ddd-94c4-38cd70772758.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\6edb67ac-cb1b-4867-ab79-1feb6cdfe471.png",
+      "PackagePath": "staticwebassets\\Images\\6edb67ac-cb1b-4867-ab79-1feb6cdfe471.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\6ee3bdc1-a2e8-47e3-90b7-57acbaaf60b2.jpg",
+      "PackagePath": "staticwebassets\\Images\\6ee3bdc1-a2e8-47e3-90b7-57acbaaf60b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\70304518-c4f3-4036-9290-4ca4ed826ef6.png",
+      "PackagePath": "staticwebassets\\Images\\70304518-c4f3-4036-9290-4ca4ed826ef6.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\70655499-d158-49ba-9e67-bf944ca696e0.png",
+      "PackagePath": "staticwebassets\\Images\\70655499-d158-49ba-9e67-bf944ca696e0.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\71d6c1ca-e8f8-4816-9349-c1c0b65f4891.png",
+      "PackagePath": "staticwebassets\\Images\\71d6c1ca-e8f8-4816-9349-c1c0b65f4891.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\744f7536-2907-47d2-bd3f-b72a99a2035e.jpg",
+      "PackagePath": "staticwebassets\\Images\\744f7536-2907-47d2-bd3f-b72a99a2035e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\7cda94ea-9086-4ce9-92a0-9cb4d36deefe.png",
+      "PackagePath": "staticwebassets\\Images\\7cda94ea-9086-4ce9-92a0-9cb4d36deefe.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\7e44f568-b5ff-45a5-ba2f-962492bd0cdd.png",
+      "PackagePath": "staticwebassets\\Images\\7e44f568-b5ff-45a5-ba2f-962492bd0cdd.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\7e718fd7-935f-4c5c-9be0-c6e2a3300ad1.png",
+      "PackagePath": "staticwebassets\\Images\\7e718fd7-935f-4c5c-9be0-c6e2a3300ad1.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\8275893f-b026-45a6-9b93-d1f303904d8f.png",
+      "PackagePath": "staticwebassets\\Images\\8275893f-b026-45a6-9b93-d1f303904d8f.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\87ed2094-34cd-471e-8571-aed064251814.png",
+      "PackagePath": "staticwebassets\\Images\\87ed2094-34cd-471e-8571-aed064251814.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\89d7ebc9-53d0-48b0-8b08-e130201fa231.png",
+      "PackagePath": "staticwebassets\\Images\\89d7ebc9-53d0-48b0-8b08-e130201fa231.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\8bdcb2db-6dd3-499e-abe6-fd5d2487f89d.png",
+      "PackagePath": "staticwebassets\\Images\\8bdcb2db-6dd3-499e-abe6-fd5d2487f89d.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\8cd128ca-4bc6-4aae-9203-2024fafd4b5c.png",
+      "PackagePath": "staticwebassets\\Images\\8cd128ca-4bc6-4aae-9203-2024fafd4b5c.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\8db0b440-1e4b-4f72-9ab6-7e8b4df3950f.jpg",
+      "PackagePath": "staticwebassets\\Images\\8db0b440-1e4b-4f72-9ab6-7e8b4df3950f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\8eeda59a-34cd-40c1-b886-589b4d971be7.png",
+      "PackagePath": "staticwebassets\\Images\\8eeda59a-34cd-40c1-b886-589b4d971be7.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\90b90671-59c0-4f42-893f-4028b59d8afa.png",
+      "PackagePath": "staticwebassets\\Images\\90b90671-59c0-4f42-893f-4028b59d8afa.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\91aa8bd7-6b74-43b0-9304-794264d84a11.png",
+      "PackagePath": "staticwebassets\\Images\\91aa8bd7-6b74-43b0-9304-794264d84a11.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\93da5879-a7d9-4ad7-96f3-716fec27ee27.docx",
+      "PackagePath": "staticwebassets\\Images\\93da5879-a7d9-4ad7-96f3-716fec27ee27.docx"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\969b33be-f358-4920-b8d3-3aaa22f41b4f.png",
+      "PackagePath": "staticwebassets\\Images\\969b33be-f358-4920-b8d3-3aaa22f41b4f.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\97541661-5b1f-4874-8df3-c5b5c90f4a33.png",
+      "PackagePath": "staticwebassets\\Images\\97541661-5b1f-4874-8df3-c5b5c90f4a33.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\977d2b10-f13a-4e80-ad66-57db1e9a713a.pdf",
+      "PackagePath": "staticwebassets\\Images\\977d2b10-f13a-4e80-ad66-57db1e9a713a.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\98aeba2b-66c3-4bb3-a6ee-465414cdb973.png",
+      "PackagePath": "staticwebassets\\Images\\98aeba2b-66c3-4bb3-a6ee-465414cdb973.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\996e61ef-ef9f-4eb8-92f2-9d81fb8f53ed.jpg",
+      "PackagePath": "staticwebassets\\Images\\996e61ef-ef9f-4eb8-92f2-9d81fb8f53ed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\9abfe276-625b-411c-87d4-4fe8162754d3.png",
+      "PackagePath": "staticwebassets\\Images\\9abfe276-625b-411c-87d4-4fe8162754d3.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\9b247c24-c6b2-4eed-aacd-3988cf415eba.jpg",
+      "PackagePath": "staticwebassets\\Images\\9b247c24-c6b2-4eed-aacd-3988cf415eba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\9b5e6dfa-a2aa-403f-a3c3-9ab5cb0ae046.png",
+      "PackagePath": "staticwebassets\\Images\\9b5e6dfa-a2aa-403f-a3c3-9ab5cb0ae046.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\9e568c95-d924-4701-9cac-31373b35d75a.png",
+      "PackagePath": "staticwebassets\\Images\\9e568c95-d924-4701-9cac-31373b35d75a.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\a24a9340-2f98-48f1-819a-c9850eba4b58.png",
+      "PackagePath": "staticwebassets\\Images\\a24a9340-2f98-48f1-819a-c9850eba4b58.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\a50e0909-f20f-4c02-acc7-c167024a905b.png",
+      "PackagePath": "staticwebassets\\Images\\a50e0909-f20f-4c02-acc7-c167024a905b.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\a953cb0c-ee1f-411e-afca-c10734948d3f.png",
+      "PackagePath": "staticwebassets\\Images\\a953cb0c-ee1f-411e-afca-c10734948d3f.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\abf731ac-974e-4cd7-bb99-6fad97852fd3.png",
+      "PackagePath": "staticwebassets\\Images\\abf731ac-974e-4cd7-bb99-6fad97852fd3.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\about-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\ac82cd31-c00d-447a-8a75-5d7710cf0720.png",
+      "PackagePath": "staticwebassets\\Images\\ac82cd31-c00d-447a-8a75-5d7710cf0720.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\acb3008f-e01e-4289-8d4b-85590ee15257.png",
+      "PackagePath": "staticwebassets\\Images\\acb3008f-e01e-4289-8d4b-85590ee15257.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\acbe5d93-000d-4577-a1d4-258bdb5fb0ac.png",
+      "PackagePath": "staticwebassets\\Images\\acbe5d93-000d-4577-a1d4-258bdb5fb0ac.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\af8b86e9-19da-4ff7-9ca1-3d3a6df8aaad.png",
+      "PackagePath": "staticwebassets\\Images\\af8b86e9-19da-4ff7-9ca1-3d3a6df8aaad.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\agent-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\agent-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\agent-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\agent-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\agent-3.jpg",
+      "PackagePath": "staticwebassets\\Images\\agent-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\agent-4.jpg",
+      "PackagePath": "staticwebassets\\Images\\agent-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\agent-5.jpg",
+      "PackagePath": "staticwebassets\\Images\\agent-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\agent-6.jpg",
+      "PackagePath": "staticwebassets\\Images\\agent-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\agent-7.jpg",
+      "PackagePath": "staticwebassets\\Images\\agent-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\author-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\author-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\author-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\author-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\b154e69a-ce25-4f24-83a3-d4cd942646db.png",
+      "PackagePath": "staticwebassets\\Images\\b154e69a-ce25-4f24-83a3-d4cd942646db.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\b2666850-7f86-4a87-abf6-64add77dfa52.jpg",
+      "PackagePath": "staticwebassets\\Images\\b2666850-7f86-4a87-abf6-64add77dfa52.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\b884b77b-b0c1-44ff-aba6-c01d7ee757db.png",
+      "PackagePath": "staticwebassets\\Images\\b884b77b-b0c1-44ff-aba6-c01d7ee757db.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\baa61c32-3f71-4c4a-a916-6840fd7356ed.png",
+      "PackagePath": "staticwebassets\\Images\\baa61c32-3f71-4c4a-a916-6840fd7356ed.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\bf102bb1-fb36-47f7-9c2d-38fe4a583a5d.png",
+      "PackagePath": "staticwebassets\\Images\\bf102bb1-fb36-47f7-9c2d-38fe4a583a5d.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\c0cae1eb-c379-4aef-bc6b-92f002f45bb4.png",
+      "PackagePath": "staticwebassets\\Images\\c0cae1eb-c379-4aef-bc6b-92f002f45bb4.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\c464725e-d77a-4cb1-899c-fbbe6424f576.jpg",
+      "PackagePath": "staticwebassets\\Images\\c464725e-d77a-4cb1-899c-fbbe6424f576.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\c6052a90-40b6-48dc-934d-61f5e13f9389.jpg",
+      "PackagePath": "staticwebassets\\Images\\c6052a90-40b6-48dc-934d-61f5e13f9389.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\cb159357-11e1-4215-aa08-044a779e0208.png",
+      "PackagePath": "staticwebassets\\Images\\cb159357-11e1-4215-aa08-044a779e0208.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\ce18a681-09c9-4c10-9e28-5cb76660530b.png",
+      "PackagePath": "staticwebassets\\Images\\ce18a681-09c9-4c10-9e28-5cb76660530b.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\d1844afd-b899-48fc-b189-d15aef465ce8.png",
+      "PackagePath": "staticwebassets\\Images\\d1844afd-b899-48fc-b189-d15aef465ce8.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\d4948763-df6b-4308-951c-6fb679b4daf5.png",
+      "PackagePath": "staticwebassets\\Images\\d4948763-df6b-4308-951c-6fb679b4daf5.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\d4f45f58-16a4-4ea4-b340-2a9c0bc99032.png",
+      "PackagePath": "staticwebassets\\Images\\d4f45f58-16a4-4ea4-b340-2a9c0bc99032.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\d53acede-d452-4281-b6bf-d0cb16b3aecd.png",
+      "PackagePath": "staticwebassets\\Images\\d53acede-d452-4281-b6bf-d0cb16b3aecd.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\d71cf331-08d2-4172-a5b6-6113ab45f860.jpg",
+      "PackagePath": "staticwebassets\\Images\\d71cf331-08d2-4172-a5b6-6113ab45f860.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\da7ac45d-0c4d-4826-b3c6-c0d18954dc80.png",
+      "PackagePath": "staticwebassets\\Images\\da7ac45d-0c4d-4826-b3c6-c0d18954dc80.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\dc0db051-e07a-41f3-96e7-da4d1ead54bf.png",
+      "PackagePath": "staticwebassets\\Images\\dc0db051-e07a-41f3-96e7-da4d1ead54bf.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\dd817e8d-b8a7-4025-b5b4-978aa011ece6.png",
+      "PackagePath": "staticwebassets\\Images\\dd817e8d-b8a7-4025-b5b4-978aa011ece6.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\de49f137-e19e-427c-b6f8-0bd80c09b041.png",
+      "PackagePath": "staticwebassets\\Images\\de49f137-e19e-427c-b6f8-0bd80c09b041.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\dec4cacb-35a0-4542-98cc-f86a523ca715.png",
+      "PackagePath": "staticwebassets\\Images\\dec4cacb-35a0-4542-98cc-f86a523ca715.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\e0014444-04fa-4e1c-b62f-fee3201302b7.png",
+      "PackagePath": "staticwebassets\\Images\\e0014444-04fa-4e1c-b62f-fee3201302b7.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\e258095c-a90e-4e7b-821c-7de6c325a5fd.png",
+      "PackagePath": "staticwebassets\\Images\\e258095c-a90e-4e7b-821c-7de6c325a5fd.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\e2c4d87f-1781-485b-b47c-98af030e3a53.png",
+      "PackagePath": "staticwebassets\\Images\\e2c4d87f-1781-485b-b47c-98af030e3a53.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\e4052336-1df3-4472-a562-4dc8992b3bbe.png",
+      "PackagePath": "staticwebassets\\Images\\e4052336-1df3-4472-a562-4dc8992b3bbe.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\eb3d948b-b730-4b84-800f-54faf7bdc3e9.docx",
+      "PackagePath": "staticwebassets\\Images\\eb3d948b-b730-4b84-800f-54faf7bdc3e9.docx"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\ebe54f3d-c641-4329-b93b-84997645e63e.png",
+      "PackagePath": "staticwebassets\\Images\\ebe54f3d-c641-4329-b93b-84997645e63e.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\ec97de94-d29c-43a9-ba1e-6a03dcacdead.png",
+      "PackagePath": "staticwebassets\\Images\\ec97de94-d29c-43a9-ba1e-6a03dcacdead.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\f0ab2d53-4c2f-4b2e-9498-04145c6c7088.png",
+      "PackagePath": "staticwebassets\\Images\\f0ab2d53-4c2f-4b2e-9498-04145c6c7088.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\f1d2d128-be31-4bc8-b1fc-454ebcd9b3d0.png",
+      "PackagePath": "staticwebassets\\Images\\f1d2d128-be31-4bc8-b1fc-454ebcd9b3d0.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\f2254723-9167-41c6-8d07-14bf2c553e0c.png",
+      "PackagePath": "staticwebassets\\Images\\f2254723-9167-41c6-8d07-14bf2c553e0c.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\f2e3f5f8-a08b-4bb6-9436-aa99372c3aa6.png",
+      "PackagePath": "staticwebassets\\Images\\f2e3f5f8-a08b-4bb6-9436-aa99372c3aa6.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\f39cbcd4-30de-40c4-ba73-b388b4942a31.png",
+      "PackagePath": "staticwebassets\\Images\\f39cbcd4-30de-40c4-ba73-b388b4942a31.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\f460de00-b0c7-4559-b466-244f8fcd5775.png",
+      "PackagePath": "staticwebassets\\Images\\f460de00-b0c7-4559-b466-244f8fcd5775.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\f7bf63d7-0c11-42e7-9390-c9cf83eaf0b1.png",
+      "PackagePath": "staticwebassets\\Images\\f7bf63d7-0c11-42e7-9390-c9cf83eaf0b1.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\f86be018-93b8-4b59-aa4d-42394674f3b6.png",
+      "PackagePath": "staticwebassets\\Images\\f86be018-93b8-4b59-aa4d-42394674f3b6.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\f879fd78-3062-44a5-adc4-6157774194c9.png",
+      "PackagePath": "staticwebassets\\Images\\f879fd78-3062-44a5-adc4-6157774194c9.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\fa4532af-62d7-48a9-8491-eedba9ac8fb3.png",
+      "PackagePath": "staticwebassets\\Images\\fa4532af-62d7-48a9-8491-eedba9ac8fb3.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\fc0f1527-274e-47fe-9491-29cd8d2a76fd.jpg",
+      "PackagePath": "staticwebassets\\Images\\fc0f1527-274e-47fe-9491-29cd8d2a76fd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\fc3d5d8b-cb1d-4d6c-b173-b43cfa0df1e2.png",
+      "PackagePath": "staticwebassets\\Images\\fc3d5d8b-cb1d-4d6c-b173-b43cfa0df1e2.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\fcadac18-37c1-4fcd-8c5f-926fccfb693a.png",
+      "PackagePath": "staticwebassets\\Images\\fcadac18-37c1-4fcd-8c5f-926fccfb693a.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\fd41d3e9-db70-4224-b92e-16bd249dbf6f.png",
+      "PackagePath": "staticwebassets\\Images\\fd41d3e9-db70-4224-b92e-16bd249dbf6f.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\fe362cbe-3316-46d7-ad1e-b6086144d5b0.png",
+      "PackagePath": "staticwebassets\\Images\\fe362cbe-3316-46d7-ad1e-b6086144d5b0.png"
+    },
+    {
+      "Id": "C:\\Users\\ogund\\Desktop\\RentApartmentManagementSystem\\wwwroot\\Images\\feef05a0-9d41-4833-bca9-52b77fe6f635.png",
+      "PackagePath": "staticwebassets\\Images\\feef05a0-9d41-4833-bca9-52b77fe6f635.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.RentApartmentManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.RentApartmentManagementSystem.props",
+      "PackagePath": "build\\RentApartmentManagementSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.RentApartmentManagementSystem.props",
+      "PackagePath": "buildMultiTargeting\\RentApartmentManagementSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.RentApartmentManagementSystem.props",
+      "PackagePath": "buildTransitive\\RentApartmentManagementSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
